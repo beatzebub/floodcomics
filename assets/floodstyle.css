@@ -12,6 +12,10 @@ summary::-webkit-details-marker {
   color: transparent;
 }
 
+details summary::-webkit-details-marker {
+  display:none;
+}
+
 body
 {
 background-image:url('tumblr/background.jpg');
