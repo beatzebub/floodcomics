@@ -5,6 +5,7 @@ details {
 }
 summary {
   list-style-image: url(https://www.floodcomics.com/white.png);
+display:block;
 
 }
 summary::-webkit-details-marker {
@@ -15,6 +16,7 @@ summary::-webkit-details-marker {
 details summary::-webkit-details-marker {
   display:none;
 }
+
 
 body
 {
